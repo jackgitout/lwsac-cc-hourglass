@@ -1,0 +1,2 @@
+class HourGlass < ApplicationRecord
+end
