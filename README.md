@@ -10,7 +10,7 @@ Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/ra
         
 2. Install the app's ruby version
 
-        $ rbenv install 3.1.0
+        $ rbenv install 3.1.2
 
 3. Install the necessary packages (if required)
 
